@@ -1,0 +1,159 @@
+body{
+    background-color: #f0f2f5;
+    height: 496px;
+    margin: 0 40px;
+    width: auto;
+    margin: 0 auto;
+    padding: 20px 0;
+    position: relative;
+    width: 980px;
+
+}
+.lado1{
+    width: 400px;
+    box-sizing: border-box;
+    margin-right: 0;
+    padding-right: 32px;
+    /*width: 580px;*/
+    display: inline-block;
+    /*margin-right: 15.999px;*/
+    vertical-align: top;
+    /*width: 565px;*/
+}
+
+.logo{
+    height: 106px;
+    margin: -14px;
+    border: 0;
+    padding: 112px 0px 16px;
+    /*overflow-clip-margin: content-box;
+    overflow: clip;*/
+}
+h2{
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin: 0;
+}
+.texto{
+    font-size: 28px;
+    line-height: 28px;
+    width: auto;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    padding: 0 0 20px;
+    color: #1c1e2;
+    display: inline-block;
+    letter-spacing: normal;
+    text-rendering: optimizelegibility;
+}
+.lado2{
+    float: right;
+    display: inline-block;
+    vertical-align: top;
+    font-family: inherit;
+}
+.formface{
+    height: 456px;
+    width: 396px;
+    display: block;
+}
+.fform{
+    padding-bottom: 24px;
+    padding-top: 10px;
+    text-align: center;
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+    margin: 140px 0 0;/*era 40px*/
+    padding: 20px 0 28px;
+    width: 396px;
+    padding: 20px;
+    float: right;
+}
+.caixa{
+    border-radius: 6px;
+    font-size: 17px;
+    /*padding: 14px 16px 
+    width: 330px;*/
+    width: 364px;
+    display: inline-block;
+    margin: auto;
+    margin-top: 12px;
+    padding: 15px 0;
+    border: 1px solid #dddfe2;
+        
+}
+.botão1{
+    background-color: #0866ff;
+    border: none;
+    margin-top: 15px;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 330px;
+    width: 364px;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+    display: inline-block;
+}
+.botão2{
+    margin-top: 15px;
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    padding: 0 16px;
+    background-color: #42b72a;
+    color: #fff;
+    box-sizing: content-box;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: bold;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    text-decoration: none;
+}
+#esqueceu{
+    color: #0866ff;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    text-decoration: none;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+}
+.divisão{
+    align-items: center;
+    border-bottom: 1px solid #dadde1;
+    display: flex;
+    margin: 20px 16px;
+    text-align: center;
+}
+}
+.linknewpage{
+    margin-top: 80px;/*era 28px*/
+    text-align: center;
+    border-top: none;
+    color: #1c1e21;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    padding-top: 0;
+    
+}
+.newpage{
+    margin-top: 42px;
+    text-align: center;
+    border-top: 1px solid #dddfe2;
+    color: #1c1e21;
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 10px;
+    /*padding-top: 15px;*/
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    text-decoration: none;
+}
